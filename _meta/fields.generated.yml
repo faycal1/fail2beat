@@ -1,0 +1,9 @@
+- key: fail2beat
+  title: fail2beat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION

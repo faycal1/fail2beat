@@ -1,0 +1,7 @@
+/.idea
+/build
+
+.DS_Store
+/fail2beat
+/fail2beat.test
+*.pyc
